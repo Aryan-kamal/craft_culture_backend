@@ -20,10 +20,11 @@ const PORT = process.env.PORT || 5000;
 app.use(express.json());
 app.use(
   cors({
-    origin: "http://localhost:3000",
+    origin: ["http://localhost:3000", "https://craft-culture-frontend.vercel.app"],
     optionsSuccessStatus: 200,
   })
 );
+
 
 // Routes
 app.use("/api/users", userRouter);
