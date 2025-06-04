@@ -70,7 +70,7 @@ const allowedOrigins = [
 app.use(
 	cors({
 		origin: allowedOrigins,
-		credentials: true, // ✅ correct option name
+		withCredentials: true, // ✅ correct option name
 		optionsSuccessStatus: 200,
 	})
 );
