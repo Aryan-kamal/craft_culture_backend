@@ -59,7 +59,8 @@ const dashboardRouter = require("./routes/dashboardRouter");
 require("dotenv").config();
 
 const app = express();
-const PORT = process.env.PORT || 5000;
+// const PORT = process.env.PORT || 5000;
+const PORT = 8080;
 
 // ✅ CORS Middleware – FIXED
 const allowedOrigins = [
