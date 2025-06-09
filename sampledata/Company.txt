@@ -2,51 +2,51 @@
   {
     "name": "WritePro Solutions",
     "description": "A content creation and editing company that provides professional writing services for businesses and individuals.",
-    "image": "https://example.com/images/writepro-solutions.jpg"
+    "image": "https://t3.ftcdn.net/jpg/05/24/37/16/360_F_524371662_i8JkwIuMQkwJLQJGgaU7dqQ8pVzqhErW.jpg"
   },
   {
     "name": "EduMaster Online",
     "description": "An online tutoring platform connecting students with professional educators worldwide.",
-    "image": "https://example.com/images/edumaster-online.jpg"
+    "image": "https://img.freepik.com/free-photo/diverse-people-working-office_53876-104681.jpg"
   },
   {
     "name": "CallConnect Services",
     "description": "Specializes in providing customer support and call center outsourcing solutions for global businesses.",
-    "image": "https://example.com/images/callconnect-services.jpg"
+    "image": "https://st3.depositphotos.com/9880800/17524/i/450/depositphotos_175242348-stock-photo-happy-colleagues-having-fun-modern.jpg"
   },
   {
     "name": "DataEase Solutions",
     "description": "Offers data entry, processing, and management services for businesses of all sizes.",
-    "image": "https://example.com/images/dataease-solutions.jpg"
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/013/496/546/small_2x/busy-working-day-group-of-young-business-people-concentrating-at-their-work-while-sitting-at-the-large-office-desk-in-the-office-together-photo.jpg"
   },
   {
     "name": "CreativeQuill Agency",
     "description": "A boutique content agency focused on providing high-quality blog posts, articles, and creative writing.",
-    "image": "https://example.com/images/creativequill-agency.jpg"
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/012/436/916/small/two-business-people-working-with-computer-in-office-free-photo.jpg"
   },
   {
     "name": "TutorHive",
     "description": "An online educational platform that connects students with subject matter experts for personalized learning.",
-    "image": "https://example.com/images/tutorhive.jpg"
+    "image": "https://static.vecteezy.com/system/resources/previews/012/438/277/non_2x/busy-coworking-office-space-free-photo.JPG"
   },
   {
     "name": "VoicePro Call Center",
     "description": "Providing inbound and outbound call services to enhance customer satisfaction and retention.",
-    "image": "https://example.com/images/voicepro-call-center.jpg"
+    "image": "https://media.istockphoto.com/id/1073787820/photo/open-plan-office-with-work-stations-and-computers.jpg?s=612x612&w=0&k=20&c=cVeB-9OKR6PF0qq0Z3hmAAEC1basSTOIHy-ibKwWVJc="
   },
   {
     "name": "DataClerk Solutions",
     "description": "Offers efficient and accurate data entry services to streamline your business operations.",
-    "image": "https://example.com/images/dataclerk-solutions.jpg"
+    "image": "https://plus.unsplash.com/premium_photo-1661331603643-e5d639f4e10a?fm=jpg"
   },
   {
     "name": "EditEase Services",
     "description": "A team of professional editors dedicated to refining and proofreading your content to perfection.",
-    "image": "https://example.com/images/editease-services.jpg"
+    "image": "https://images.unsplash.com/photo-1624555130581-1d9cca783bc0?mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png"
   },
   {
     "name": "LearnSphere Academy",
     "description": "A virtual academy offering skill-based courses and live tutoring sessions for students of all ages.",
-    "image": "https://example.com/images/learnsphere-academy.jpg"
+    "image": "https://img.freepik.com/free-photo/young-employees-sitting-office-table-using-laptop_146671-15640.jpg"
   }
 ]

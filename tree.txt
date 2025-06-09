@@ -1,0 +1,45 @@
+|   .env
+|   .gitignore
+|   db.js
+|   package-lock.json
+|   package.json
+|   README.md
+|   server.js
+|   tree.txt
+|   
++---config
++---models
+|       Applicant.js
+|       Company.js
+|       DonateMoney.js
+|       DonateProduct.js
+|       Job.js
+|       Order.js
+|       Product.js
+|       User.js
++---routes
+|       applicantRouter.js
+|       companyRouter.js
+|       dashboardRouter.js
+|       donateMoneyRouter.js
+|       donateProductRouter.js
+|       jobRouter.js
+|       orderRouter.js
+|       productRouter.js
+|       userRouter.js
+|       
++---sampledata
+|   |   Company.txt
+|   |   Job.txt
+|   |   
+|   \---Product
+|           Bag.txt
+|           Bottle Art.txt
+|           Diyas.txt
+|           Frames.txt
+|           Jewellery.txt
+|           Pen Stand.txt
+|           Wall Hanging.txt
+|           
+\---seed
+        seed.js
